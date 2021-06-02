@@ -3,7 +3,7 @@ layout:     post
 title:      "Unix/Linux 扫盲笔记"
 subtitle:   "不适合人类阅读，非常水的自我笔记"
 date:       2015-04-14 
-author:     "zhouxr"
+author:     "Hux"
 header-img: "img/post-bg-unix-linux.jpg"
 catalog: true
 tags:
@@ -65,6 +65,8 @@ An **object-oriented**, multitasking OS. Low-level C but High-level OC language 
 			- Symbian was a closed-source OS.
 
 
+---
+
 ## Unix-like
 
 > A Unix-like (sometimes referred to as UN*X or *nix) operating system is one that behaves in a manner similar to a Unix system, while not necessarily conforming to or being certified to any version of the **Single UNIX Specification**.
@@ -87,6 +89,8 @@ The iOS kernal is **XNU**, the kernal of Darwin.
 #### XNU Kernel
 XNU, the acronym(首字母缩写) for ***X is Not Unix***, which is the **Computer OS Kernel** developed at Apple Inc since Dec 1996 for use in the Mac OS X and released as free open source software as part of Darwin.
 
+
+---
 
 ## Linux
 
