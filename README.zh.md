@@ -97,6 +97,12 @@ Jekyll官方网站还有很多的参数可以调，比如设置文章的链接�
 
 要发表的文章一般以markdown的格式放在这里`_posts/`，你只要看看这篇模板里的文章你就立刻明白该如何设置。
 
+安装 [Rake](https://github.com/ruby/rake), `cd`到根目录,然后执行如下,会自己生成模板
+
+```
+rake post title="Hello 2015" subtitle="Hello World, Hello Blog"
+```
+
 yaml 头文件长这样:
 
 ```
